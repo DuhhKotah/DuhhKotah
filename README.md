@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Rock Climbing and all things fitness. as well as novice programming
 - 🌱 I’m currently learning ... C++ 
 - 💞️ I’m looking to collaborate on ... anything and everything I'm here to learn and excited to do it.
-- 📫 How to reach me ... dsuttonrodrigue@cub@uca.edu
+- 📫 How to reach me ... dsuttonrodrigue@cub.uca.edu
 
 <!---
 DuhhKotah/DuhhKotah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
