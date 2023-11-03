@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DuhhKotah
-- 👀 I’m interested in ... Rock Climbing and all things fitness. as well as novice programming
-- 🌱 I’m currently learning ... C++ 
+- 👀 I’m interested in ... Rock Climbing and all things fitness.
+- 🌱 I’m currently learning C++, Java, Javascript
 - 💞️ I’m looking to collaborate on ... anything and everything I'm here to learn and excited to do it.
 - 📫 How to reach me ... dsuttonrodrigue@cub.uca.edu
 
